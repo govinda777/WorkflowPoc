@@ -1,0 +1,8 @@
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\bin\Debug\WorkflowPoc.Test.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\bin\Debug\WorkflowPoc.Test.pdb
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\obj\Debug\WorkflowPoc.Test.csprojResolveAssemblyReference.cache
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\obj\Debug\WorkflowPoc.Test.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\obj\Debug\WorkflowPoc.Test.pdb
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\bin\Debug\OrderedTest.orderedtest
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\bin\Debug\WorkflowPoc.Core.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Test\bin\Debug\WorkflowPoc.Core.pdb

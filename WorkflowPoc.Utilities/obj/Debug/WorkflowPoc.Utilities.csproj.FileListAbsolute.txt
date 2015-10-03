@@ -1,0 +1,7 @@
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Utilities\bin\Debug\WorkflowPoc.Utilities.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Utilities\bin\Debug\WorkflowPoc.Utilities.pdb
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Utilities\obj\Debug\WorkflowPoc.Utilities.csprojResolveAssemblyReference.cache
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Utilities\obj\Debug\WorkflowPoc.Utilities.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Utilities\obj\Debug\WorkflowPoc.Utilities.pdb
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Core\lib\WorkflowPoc.Utilities.dll
+c:\users\lua.souza\documents\visual studio 2013\Projects\WorkflowPod\WorkflowPoc.Core\lib\WorkflowPoc.Utilities.pdb
