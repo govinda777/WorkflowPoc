@@ -29,6 +29,11 @@ namespace WorkflowPoc.Core
             return new CodeNamespace(nameSpace);
         }
 
+        /// <summary>
+        /// Adiciona using no namespace
+        /// </summary>
+        /// <param name="customNamespace"></param>
+        /// <param name="nameSpaces"></param>
         public void CreateImports(ref CodeNamespace customNamespace, params string[] nameSpaces)
         {
             foreach (var item in nameSpaces)
